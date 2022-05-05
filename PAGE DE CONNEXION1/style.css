@@ -1,0 +1,22 @@
+body{
+    background-color: crimson;
+}
+.formulaire{
+    border:solid 1px ghostwhite;
+    padding-top: 10px;
+    padding: 50px 10px 50px 10px;
+    border-radius: 10px;
+    width: 240px;
+}
+.log{
+    padding-right: 135px;
+}
+.mdp{
+    padding-right: 115px;
+}
+.log:hover{
+    color: darkolivegreen;
+}
+.mdp:hover{
+    color: darkolivegreen;
+}
